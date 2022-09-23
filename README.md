@@ -1,7 +1,5 @@
 # Eve Jekyll Theme - <a href="http://jibolash.github.io/Eve/">Demo</a>
 
-<a href="https://travis-ci.org/jibolash/Eve"><img src="https://travis-ci.org/jibolash/Eve.svg?branch=gh-pages" alt="Build Status" /></a>
-
 Eve is an ultra minimal Jekyll theme for building single page personal portfolio websites
 
 <p align="center">
