@@ -1,0 +1,11 @@
+<section class="list">
+    {% for contributor_hash in site.contributor-list %}
+    {% assign contributor = contributor_hash[1] %}
+        <div class="item" style="display: flex;">
+                <a class="url" href="{{ contributor.url }}">
+                    <h3 class="title">{{ contributor.name }}</h3>
+                </a>
+                <p class="description">{{ contributor.organization }}</p>    
+        </div>
+    {% endfor %}
+</section>

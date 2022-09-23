@@ -40,4 +40,14 @@
         </ul>
     </nav>
     {% include badges.html %}
+
+{% if site.contributors %}
+<nav class="nav-home">
+        <ul class="list">
+            <li class="item">
+                <h2>Contributors</h2>
+            </li>
+        </ul>
+    </nav>
+    {% include contributors.html %}    
 {% endif %}
