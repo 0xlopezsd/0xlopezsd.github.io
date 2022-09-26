@@ -45,10 +45,10 @@ skills: true
 
 # add your skills here
 skills-list:
-    - <b>Automation </b> OpenZepelling Defender 
-    - <b>Languages </b> Solidity, Typescript
-    - <b>Web </b>  NodeJs, React, Redux, Jest, Enzyme, Web Design Systems, GraphQL.
-    - <b>Web3</b>  Web3.js, Ethers Truffle, Hardhat, Ganache, Metamask
+    - <b>Automation </b> OpenZepelling Defender, Gelato Network, Chainlink Keepers 
+    - <b>Smart contract developement </b> Solidity
+    - <b>Smart contract testing </b>  Typescript, mocha, Hardhat, Ganache.
+    - <b>Web3</b>  Web3.js, Ethers, Truffle, Metamask
 
 
 # do you want to display a projects section? true or false
@@ -60,7 +60,12 @@ project-list:
         name: mStable
         description: Decentralised Stablecoin Ecosystem
         url: https://github.com/mstable/mStable-contracts
-        tags: React, Ethers, Hardhat, Solidity
+        tags: Smart Contract Development, Research, Smart Contract Automation
+    react-jsonschema-form:
+        name: react-jsonschema-form
+        description: A simple React component capable of building HTML forms out of a JSON schema.
+        url: https://github.com/rjsf-team/react-jsonschema-form
+        tags: Open source contribution    
 
 # do you want to display a badges section? true or false
 badges: false
