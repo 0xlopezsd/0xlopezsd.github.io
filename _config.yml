@@ -1,23 +1,23 @@
 # Your name and what you do
-name: Decentralized Synergy
+name: Lopez Software Development
 bio: Research and development for blockchain solutions.
 
-description: Decentralized Synergy Website
+description: Lopez Software Development Website
 
 # Profile picture
 picture: assets/images/profile.png
  
-url: https://0xdsynergy.github.io
+url: https://0xlopezsd.github.io
 
 # do you want to display social media links? true or false
 social-media: false
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-#twitter: 0xdsynergy
+#twitter: 0xlopezsd
 # linkedin: christopher-césar-chávez-lópez-27566b12
-github: 0xdsynergy
-# email: 0xdsynergy@gmail.com
+github: 0xlopezsd
+# email: 0xlopezsd@gmail.com
 # cv: assets/cv-dapp._pdf
 # google: mygoogle
 # instagram: myinstagram
@@ -46,6 +46,7 @@ skills: true
 # add your skills here
 skills-list:
     - <b>Automation </b> OpenZepelling Defender, Gelato Network, Chainlink Keepers 
+    - <b>Analytics </b> Monitoring, Dune Dashboards
     - <b>Smart contract developement </b> Solidity
     - <b>Smart contract testing </b>  Typescript, mocha, Hardhat, Ganache.
     - <b>Web3</b>  Web3.js, Ethers, Truffle, Metamask
@@ -56,6 +57,11 @@ projects: true
 
 # add your projects here
 project-list:
+    packd-contracts:
+        name: PACD
+        description: Packs are composable ERC721s that own accounts based on the ERC6551 standard.
+        url: https://app.packd.io/
+        tags: Smart Contract Development, Advisor
     mStable-contracts:
         name: mStable
         description: Decentralised Stablecoin Ecosystem
@@ -84,7 +90,7 @@ contributors: true
 contributor-list:
     doncesarts:
         name: doncesarts.eth
-        organization: 0xdsynergy
+        organization: 0xlopezsd
         url: https://github.com/doncesarts
 
 
